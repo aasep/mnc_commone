@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe -f C:\xampp\htdocs\commone\module\job\create_txt.php

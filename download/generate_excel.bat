@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe -f C:\xampp\htdocs\commone\download\get_temp_table.php
